@@ -7,6 +7,8 @@ def pass_gen():
     # ASCII Symbols: '!': 33, '# $ % &': 35 --> 38 
     chars = ['']
     num_chars = random.randint(8, 20)
+    for num in range(num_chars):
+        
 
     return -1
 
