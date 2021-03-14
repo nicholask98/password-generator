@@ -6,4 +6,3 @@ Extra:
 
 Ask the user how strong they want their password to be. For weak passwords, pick a word or two from a list.
 
-Update #1: Still working on it
